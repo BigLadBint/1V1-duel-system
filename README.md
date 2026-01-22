@@ -19,3 +19,4 @@ Players can challenge each other with `/1v1 [id]`, accept/decline via NUI popup,
 ### Installation
 1. Drag this folder into your `resources` directory
 2. Ensure it in your `server.cfg`:
+3. Will need to change arenas to your suit your server
